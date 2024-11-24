@@ -1,7 +1,7 @@
 
 ---
 
-# 🌀 Welcome to My Creative Space!
+# 🌀 Welcome to My Creative Space!  
 
 **Hi, I'm Gheiza Muhammad Fauzi!**  
 💻 A passionate **Web Developer** & 🎨 **Creative Designer**!  
@@ -43,11 +43,20 @@ Here’s what I love to do:
 
 ---
 
-## 📈 **My GitHub Universe**  
+## 📈 **My GitHub Universe**
 
+### 📊 **GitHub Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seebiadab&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=seebiadab&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seebiadab&layout=compact&theme=radical)
+
+---
+
+### 🔥 **GitHub Streak**  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seebiadab&theme=radical)  
+
+---
+
+### 💻 **Top Languages**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seebiadab&layout=compact&theme=radical)  
 
 ---
 
@@ -62,7 +71,7 @@ Here’s a quick look at what I do every day:
 
 - 📧 [Email Me](mailto:gheizafauzi04@gmail.com)  
 - 👨‍💻 [Check out my GitHub](https://github.com/seebiadab)  
-- 🌐 [Visit My Portfolio](https://seebiadab.github.io/portfolio/)
+- 🌐 [Visit My Portfolio](#)
 
 ---
 
