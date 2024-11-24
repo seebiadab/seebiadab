@@ -44,21 +44,16 @@ Here’s what I love to do:
 ---
 
 ## 📈 **My GitHub Universe**
-
-### 📊 **GitHub Stats**  
+ 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seebiadab&show_icons=true&theme=radical)  
 
----
 
-### 🔥 **GitHub Streak**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seebiadab&theme=radical)  
 
----
 
-### 💻 **Top Languages**  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seebiadab&layout=compact&theme=radical)  
 
----
+
 
 ## 🎥 **Behind the Scenes**  
 
