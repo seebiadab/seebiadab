@@ -66,7 +66,7 @@ Here’s a quick look at what I do every day:
 
 - 📧 [Email Me](mailto:gheizafauzi04@gmail.com)  
 - 👨‍💻 [Check out my GitHub](https://github.com/seebiadab)  
-- 🌐 [Visit My Portfolio](#)
+- 🌐 [Visit My Portfolio](https://seebiadab.github.io/portfolio/)
 
 ---
 
