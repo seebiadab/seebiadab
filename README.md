@@ -1,7 +1,7 @@
 ![Animated Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 **Hi, I'm Gheiza Muhammad Fauzi!**  
-A passionate **Web Developer** & **Creative Designer**!  
+👨‍💻 A passionate **Web Developer** & **Creative Designer**!  
 📍 Based in Indonesia | 🌟 Always curious to learn and grow  
 
 ---
