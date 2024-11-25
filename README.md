@@ -23,7 +23,7 @@ Here’s what I love to do:
 ## 🚀 **My Tech Playground**  
 
 - **Figma**, **Photoshop**, **Illustrator**
-- **HTML**, **CSS**, **JavaScript**, **PHP**, **Python**
+- **C++**, **Python**, **PHP**, **JavaScript**, **HTML**, **CSS**
 - **Laravel**, **NextJS**
 - **Git**, **VSCode**
 
