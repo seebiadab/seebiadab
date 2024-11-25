@@ -4,12 +4,13 @@
 
 
 ---
+
+> *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs  
+
 ---
 
 
 ## **About Me**  
-
-> *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs  
 
 I’m currently a 3rd-semester **Informatics Engineering student** at **Universitas Islam Nusantara**.  
 My journey started with **designing posters and pamphlets** using tools like **Photoshop** and **Illustrator**, and now I combine creativity with coding to create stunning **web portfolio projects**.  
