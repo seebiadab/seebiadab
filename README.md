@@ -1,12 +1,11 @@
 ![Animated Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-**Hi, I'm Gheiza Muhammad Fauzi!**  
-👤 A passionate **Web Developer** & **Creative Designer**!  
-📍 Based in Indonesia | And always curious to learn and grow  
-
+🙋 **Hi, I'm Gheiza Muhammad Fauzi!**  
+👨‍💻 A passionate **Web Developer** & **Creative Designer**!  
+---
 ---
 
-## 🎨 **About Me**  
+## **About Me**  
 
 > *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs  
 
