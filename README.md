@@ -2,7 +2,7 @@
 
 **Hi, I'm Gheiza Muhammad Fauzi!**  
 👤 A passionate **Web Developer** & **Creative Designer**!  
-📍 Based in Indonesia | 🌟 Always curious to learn and grow  
+📍 Based in Indonesia | And always curious to learn and grow  
 
 ---
 
